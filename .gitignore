@@ -1,0 +1,6 @@
+*.db
+*.sqlite
+/.vscode
+/.idea
+__pycache__/
+*.log
