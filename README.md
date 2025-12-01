@@ -46,8 +46,5 @@ git commit -m "Initial: schema and sample data for library DB"
 # git push -u origin main
 ```
 
-Observações e próximos passos sugeridos:
-- Se quiser usar PostgreSQL/MySQL, eu posso adaptar o esquema (tipos, sequências).
-- Posso adicionar migrations (Flyway/Knex) ou scripts para gerar o DB automaticamente.
-- Posso criar um pequeno README em português com diagramas ER se desejar.
->>>>>>> f5f604b (Initial: schema and sample data for library DB)
+
+
